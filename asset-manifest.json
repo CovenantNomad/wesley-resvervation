@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/wesley-resvervation/static/js/main.29ee9500.chunk.js",
+    "main.js.map": "/wesley-resvervation/static/js/main.29ee9500.chunk.js.map",
+    "runtime-main.js": "/wesley-resvervation/static/js/runtime-main.1b3e05c3.js",
+    "runtime-main.js.map": "/wesley-resvervation/static/js/runtime-main.1b3e05c3.js.map",
+    "static/js/2.8979a8da.chunk.js": "/wesley-resvervation/static/js/2.8979a8da.chunk.js",
+    "static/js/2.8979a8da.chunk.js.map": "/wesley-resvervation/static/js/2.8979a8da.chunk.js.map",
+    "index.html": "/wesley-resvervation/index.html",
+    "static/js/2.8979a8da.chunk.js.LICENSE.txt": "/wesley-resvervation/static/js/2.8979a8da.chunk.js.LICENSE.txt",
+    "static/media/bgImage1.0bb5e2f8.jpeg": "/wesley-resvervation/static/media/bgImage1.0bb5e2f8.jpeg",
+    "static/media/cross.a349f962.svg": "/wesley-resvervation/static/media/cross.a349f962.svg",
+    "static/media/thumbnail3.47c6a485.jpeg": "/wesley-resvervation/static/media/thumbnail3.47c6a485.jpeg",
+    "static/media/thumbnail4.ca7c0c14.jpeg": "/wesley-resvervation/static/media/thumbnail4.ca7c0c14.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b3e05c3.js",
+    "static/js/2.8979a8da.chunk.js",
+    "static/js/main.29ee9500.chunk.js"
+  ]
+}
