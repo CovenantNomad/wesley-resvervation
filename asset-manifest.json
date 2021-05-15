@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/wesley-resvervation/static/js/main.6108e386.chunk.js",
-    "main.js.map": "/wesley-resvervation/static/js/main.6108e386.chunk.js.map",
+    "main.js": "/wesley-resvervation/static/js/main.f3fa52d1.chunk.js",
+    "main.js.map": "/wesley-resvervation/static/js/main.f3fa52d1.chunk.js.map",
     "runtime-main.js": "/wesley-resvervation/static/js/runtime-main.1b3e05c3.js",
     "runtime-main.js.map": "/wesley-resvervation/static/js/runtime-main.1b3e05c3.js.map",
     "static/js/2.9c1bdfe2.chunk.js": "/wesley-resvervation/static/js/2.9c1bdfe2.chunk.js",
@@ -12,13 +12,11 @@
     "static/media/cross.a349f962.svg": "/wesley-resvervation/static/media/cross.a349f962.svg",
     "static/media/pastorLee.e3ce3642.jpeg": "/wesley-resvervation/static/media/pastorLee.e3ce3642.jpeg",
     "static/media/pastorSeo.1e2c1c78.jpeg": "/wesley-resvervation/static/media/pastorSeo.1e2c1c78.jpeg",
-    "static/media/poster.f7ae4ba4.jpeg": "/wesley-resvervation/static/media/poster.f7ae4ba4.jpeg",
-    "static/media/thumbnail3.47c6a485.jpeg": "/wesley-resvervation/static/media/thumbnail3.47c6a485.jpeg",
-    "static/media/thumbnail4.ca7c0c14.jpeg": "/wesley-resvervation/static/media/thumbnail4.ca7c0c14.jpeg"
+    "static/media/poster.f7ae4ba4.jpeg": "/wesley-resvervation/static/media/poster.f7ae4ba4.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.1b3e05c3.js",
     "static/js/2.9c1bdfe2.chunk.js",
-    "static/js/main.6108e386.chunk.js"
+    "static/js/main.f3fa52d1.chunk.js"
   ]
 }
