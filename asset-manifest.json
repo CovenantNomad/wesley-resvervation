@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/wesley-resvervation/static/js/main.e4ed431c.chunk.js",
-    "main.js.map": "/wesley-resvervation/static/js/main.e4ed431c.chunk.js.map",
+    "main.js": "/wesley-resvervation/static/js/main.c48ef557.chunk.js",
+    "main.js.map": "/wesley-resvervation/static/js/main.c48ef557.chunk.js.map",
     "runtime-main.js": "/wesley-resvervation/static/js/runtime-main.1b3e05c3.js",
     "runtime-main.js.map": "/wesley-resvervation/static/js/runtime-main.1b3e05c3.js.map",
     "static/js/2.9c1bdfe2.chunk.js": "/wesley-resvervation/static/js/2.9c1bdfe2.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.1b3e05c3.js",
     "static/js/2.9c1bdfe2.chunk.js",
-    "static/js/main.e4ed431c.chunk.js"
+    "static/js/main.c48ef557.chunk.js"
   ]
 }
